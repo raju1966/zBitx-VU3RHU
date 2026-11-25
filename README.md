@@ -1,3 +1,11 @@
+## WITHDRAWN — do not use the v1.0 release
+
+**The v1.0 release was withdrawn on 25 November 2026 and has been deleted.**
+
+Six of the DSP controls in that build (ABST, NRVL, NBVL, MCMP, FVLY and FMNT) set a value but never switched the feature on. They changed the number on the screen and did nothing else. The release notes said they worked. Apologies to anyone who downloaded it.
+
+A corrected build is being prepared and will be published here.
+
 # zBitx with VU3RHU DSP features
 
 DSP and UI enhancements for the HF Signals **zBitx**, built on
